@@ -1,3 +1,6 @@
+#Asciinema link
+https://asciinema.org/a/KiZH7SMpHP8ytoBbAjzIYF8gJ
+
 # Titanic Survival Prediction (Machine Learning)
 
 This project uses **supervised learning** to predict Titanic passenger survival using the famous Kaggle Titanic Dataset.
@@ -29,3 +32,4 @@ python predict.py
 
 ### 4. Run API server
 python app.py
+
