@@ -1,4 +1,4 @@
-survived,pclass,name,sex,age,fare,sibsp,parch
+Survived,Pclass,Name,Sex,Age,Fare,sibsp,parch
 0,3,"Braund, Mr. Owen Harris",male,22.0,7.25,1,0
 1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,71.2833,1,0
 1,3,"Heikkinen, Miss. Laina",female,26.0,7.925,0,0

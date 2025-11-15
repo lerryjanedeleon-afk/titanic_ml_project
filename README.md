@@ -13,7 +13,8 @@ Place `train.csv` in the project folder.
 - train.py → trains the ML model
 - predict.py → tests the model using manual inputs
 - app.py → Flask API for predictions
-- model.pkl → saved model after training
+- model.pkl → saved trained model
+- titanic_ml.py → quick dataset preview
 
 ## How to Run
 
